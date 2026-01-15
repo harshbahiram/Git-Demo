@@ -1,2 +1,2 @@
 # Git-Demo
-Learning Git and Github
+Starting to Learn Git and Github to Build my Skills
